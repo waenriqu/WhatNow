@@ -1,18 +1,21 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\DialogueCJ.js">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\DialogueEW.js">
     <Files>
-      <File FileName="Assets\Scripts\DialogueCJ.js" Line="34" Column="27" />
-      <File FileName="Assets\Scripts\Eric Wilson.js" Line="7" Column="20" />
-      <File FileName="Assets\DialogueLS.js" Line="63" Column="5" />
-      <File FileName="Assets\DialogueSM.js" Line="63" Column="5" />
-      <File FileName="Assets\DialogueLC.js" Line="63" Column="5" />
-      <File FileName="Assets\DialogueEJ.js" Line="64" Column="5" />
-      <File FileName="Assets\DialogueJSa.js" Line="64" Column="5" />
-      <File FileName="Assets\DialogueJSo.js" Line="64" Column="5" />
-      <File FileName="Assets\DialogueJL.js" Line="64" Column="5" />
-      <File FileName="Assets\DialogueEW.js" Line="64" Column="5" />
-      <File FileName="Assets\Scripts\Character.js" Line="6" Column="20" />
+      <File FileName="Assets\DialogueEJ.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DialogueCJ.js" Line="176" Column="4" />
+      <File FileName="Assets\DialogueLS.js" Line="176" Column="4" />
+      <File FileName="Assets\DialogueSM.js" Line="176" Column="4" />
+      <File FileName="Assets\DialogueLC.js" Line="176" Column="4" />
+      <File FileName="Assets\DialogueJSa.js" Line="3" Column="1" />
+      <File FileName="Assets\DialogueJSo.js" Line="176" Column="4" />
+      <File FileName="Assets\DialogueJL.js" Line="176" Column="4" />
+      <File FileName="Assets\DialogueEW.js" Line="176" Column="4" />
+      <File FileName="Assets\agregarObjeto1.js" Line="1" Column="1" />
+      <File FileName="Assets\agregarObjeto2.js" Line="13" Column="74" />
+      <File FileName="Assets\agregarObjeto3.js" Line="15" Column="27" />
+      <File FileName="Assets\estado.js" Line="11" Column="2" />
+      <File FileName="Assets\Scripts\Eric Wilson.js" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

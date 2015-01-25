@@ -59,6 +59,10 @@
      <Compile Include="Assets\Scripts\Eric Wilson.js" />
      <Compile Include="Assets\Scripts\MC.js" />
      <Compile Include="Assets\Scripts\asd.js" />
+     <Compile Include="Assets\agregarObjeto1.js" />
+     <Compile Include="Assets\agregarObjeto2.js" />
+     <Compile Include="Assets\agregarObjeto3.js" />
+     <Compile Include="Assets\estado.js" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.1/UnityEngine.UI.dll</HintPath>
  </Reference>

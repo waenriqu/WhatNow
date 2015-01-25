@@ -32,7 +32,7 @@ function OnMouseOver(){
 			var scriptB : DialogueEW = p.GetComponent(DialogueEW);
 			scriptB.SetToZero();
 			}
-			if(x.nombre == "Smooth McMooves"){
+			if(x.nombre == "Smooth McMoves"){
 			var scriptC : DialogueSM = p.GetComponent(DialogueSM);
 			scriptC.SetToZero();
 			}
@@ -79,9 +79,10 @@ function SetToZero(){
 
 function OnGUI () {
 
+
         // Make a background box
         	if(dialogo)
-	        GUI.Box(new Rect(40,30,150,100), "Hello, rough night huh?");
+	        GUI.Box(new Rect(40,30,150,100), "Oh god, oh god, I think I'm going to pass out!");
 	        
 	        if(showButtons){
 	    	if (GUI.Button(new Rect(20,70,80,20), "Press On")){
@@ -103,22 +104,22 @@ function OnGUI () {
     	
     	
     	if(dC ==1 && press == 1){
- 		   	GUI.Box (new Rect(10,10,200,100), "What are you implying sir?");
+ 		   	GUI.Box (new Rect(10,10,200,100), "Who would do something\n so horrible?\n It hurts just by looking at it.");
  		
  		}
  		if(dC ==2){
- 			GUI.Box(new Rect(10,10,200,100), "What a shame... \nI saw her near my shop \njust yesterday.");
+ 			GUI.Box(new Rect(10,10,200,100), "Hey I saw that shades guy yesterday\n at the disco. He was hanging\n out with some other girl.");
     		
     	}
     	
     	
     	if(dC==1 && press == 2){
-    		GUI.Box (new Rect(10,10,200,100), "Just because I'm wearing\n pijamas doesn't mean \nI'm a murderer!");
+    		GUI.Box (new Rect(10,10,200,100), "Now, now don't get all suspicious on me. /n There's plenty of other weirdos here to blame.");
 	
 		}
 		
 		if(dC==1 && press == 3){
-			GUI.Box(new Rect(10,10,200,100), "You just made a \nterrible mistake!");
+			GUI.Box(new Rect(10,10,200,100), "Man,you should definitely \n find another job.");
 		}
 		
 		
