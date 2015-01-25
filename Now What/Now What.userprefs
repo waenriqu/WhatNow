@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\DialogueCJ.js">
+    <Files>
+      <File FileName="Assets\Scripts\DialogueCJ.js" Line="34" Column="27" />
+      <File FileName="Assets\Scripts\Eric Wilson.js" Line="7" Column="20" />
+      <File FileName="Assets\DialogueLS.js" Line="63" Column="5" />
+      <File FileName="Assets\DialogueSM.js" Line="63" Column="5" />
+      <File FileName="Assets\DialogueLC.js" Line="63" Column="5" />
+      <File FileName="Assets\DialogueEJ.js" Line="64" Column="5" />
+      <File FileName="Assets\DialogueJSa.js" Line="64" Column="5" />
+      <File FileName="Assets\DialogueJSo.js" Line="64" Column="5" />
+      <File FileName="Assets\DialogueJL.js" Line="64" Column="5" />
+      <File FileName="Assets\DialogueEW.js" Line="64" Column="5" />
+      <File FileName="Assets\Scripts\Character.js" Line="6" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
